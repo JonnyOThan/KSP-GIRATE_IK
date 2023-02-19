@@ -1,2 +1,6 @@
-# KSP-GREAT-IK
-Generalized robotic effector arm targeting: inverse kinematics.
+# KSP-GIRATE_IK
+
+Generalized inteligent robotic arm targeting effector: inverse kinematics.
+
+It's pronounced dzigh-reyt!
+
