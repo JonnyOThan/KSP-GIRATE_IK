@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Source/.vs/GREAT_IK/v17
+/Source/bin/Debug
+/Source/obj/Debug
+/Source/GREAT_IK.csproj.user
